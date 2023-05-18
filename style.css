@@ -1,0 +1,15 @@
+.bpw-from-bot {
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
+  .bpw-chat-bubble {
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .bpw-chat-bubble-content {
+    font-size: 16px;
+    line-height: 1.5;
+  }
